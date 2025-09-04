@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 # 👋 Hallo, ich bin Matthias
 
 Willkommen auf meinem GitHub-Profil!  
-Ich bin selbststädniger Berater und helfe Unternehmen und Projektteams dabei, Projekte smarter zu managen – mit klaren Strukturen, effizienten Tools und Methoden, die den Fokus auf das Wesentliche lenken.  
+Ich bin selbstständiger Berater und helfe Unternehmen und Projektteams dabei, Projekte smarter zu managen – mit klaren Strukturen, effizienten Tools und Methoden, die den Fokus auf das Wesentliche lenken.  
 
 ---
 
