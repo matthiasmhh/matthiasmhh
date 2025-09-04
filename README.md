@@ -23,10 +23,18 @@ Ich bin selbstständiger Berater und helfe Unternehmen und Projektteams dabei, P
 
 ---
 
+### 🇬🇧 About me (in English)
+
+Helping teams succeed with smart project management, a strong focus on quality,  
+and efficient workflows that make projects easier – and more successful.
+
+---
+
 ## 🚀 Was ich mache
 - 🔹 **Smartes Projektmanagement** – Klarheit, Effizienz & weniger Chaos  
 - 🔹 **Qualitätsmanagement & Struktur** – für nachhaltigen Projekterfolg  
-- 🔹 **Tools & Vorlagen** – smarte Helfer für den Projektalltag  
+- 🔹 **Tools & Vorlagen** – smarte Helfer für den Projektalltag
+- 🔹 **Entwicklung mit VB.NET, VBA, Python** – zur Automatisierung von Aufgaben  
 
 ---
 
